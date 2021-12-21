@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as an Ab Initio developer
-- 🌱 I’m currently learning React and Python
-- 👯 I’m looking to collaborate on React and Python
+- 🔭 I’m currently working as a Java Spring Boot Developer
 <!--
+- 🌱 I’m currently learning Java Spring Boot and Python
+- 👯 I’m looking to collaborate on Java Spri and Python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
